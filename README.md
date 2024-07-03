@@ -41,11 +41,11 @@ We conclude with some practical recommendations for departments and professional
   - [Sono Shah](https://www.pewresearch.org/staff/sono-shah/) (Pew Research Center)
   - [Soubhik Barari](https://soubhikbarari.com/) (NORC, Columbia) 
 
-The panels are listed alphabetically. 
+The panelists are listed alphabetically. 
 
 ## Orgnization 
 
-Each session is organized by a 15-minute presentation, a panel discussion that includes participants and senior and junior scholars/practitioners, and an open Q&A.
+Each session is organized by a 15-minute presentation, a moderated panel discussion, and an open Q&A.
 
 We intentionally designed the tutorial this way so that the participants could benefit from the short presentations that can guide the following panel and open discussions. Participants can raise their questions and gain information and insights from presenters and other panelists regarding building skills and career paths in computational social science.
 
