@@ -9,7 +9,9 @@
 
 ### Short version 
 
-tl;dr: This tutorial will help you learn the hideen transcript of being a professional computational social scientist. 
+The goal of this tutorial is to assist graduate students, faculty, and administrators in comprehending the various pathways available for students to enhance their computational social science skills, portfolios, and networks.
+ 
+This tutorial will particularly benefit social science PhD students by providing them with a better understanding of the career opportunities that are available in computational social science. Additionally, faculty and administrators will be able to find new ways to support these endeavors.
 
 ### Long version 
 
@@ -43,7 +45,9 @@ The panels are listed alphabetically.
 
 ## Orgnization 
 
-The tutorial consists of three sessions. Each session will begin with a short presentation, followed by moderated discussions and an open Q&A. Depending on the number of participants, there will be small group discussions. The participants will have ample opportunities to engage with the panelists. The presentation slides for these sessions will be shared soon.
+Each session is organized by a 15-minute presentation, a panel discussion that includes participants and senior and junior scholars/practitioners, and an open Q&A.
+
+We intentionally designed the tutorial this way so that the participants could benefit from the short presentations that can guide the following panel and open discussions. Participants can raise their questions and gain information and insights from presenters and other panelists regarding building skills and career paths in computational social science.
 
 ## Session 1: Learning Data Science Skills (1:30 - 2:30 PM, 15 mins break)  
 
