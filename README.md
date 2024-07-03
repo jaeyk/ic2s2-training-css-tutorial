@@ -3,7 +3,7 @@
 ## Logistics 
 
 * Time: 1:30-5 PM (July 17, 2024)
-* Venue: Houston: Bodek Lounge
+* Venue: Houston: Bodek Lounge (['24 IC2S2 schedule](https://ic2s2-2024.org/schedule))
 
 ## Objective 
 
