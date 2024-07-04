@@ -55,7 +55,7 @@ We intentionally designed the tutorial this way so that the participants could b
 
 ## Session 2: Builindg Computational Social Science Portfolio (2:45 - 3:45 PM, 15 mins break)
 
-- Slides [TBD]
+- [Slides](https://github.com/jaeyk/ic2s2-training-css-tutorial/blob/main/slides/training_css_phd_building_portfolio_Kim.pdf)
 
 ## Session 3: Connecting with Computatioanl Social Scientists (4 - 5 PM)
 
