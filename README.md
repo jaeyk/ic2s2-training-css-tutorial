@@ -45,7 +45,7 @@ The panelists are listed alphabetically.
 
 ## Orgnization 
 
-Each session is organized by a 15-minute presentation, a moderated panel discussion, and an open Q&A.
+Each session is organized by a 10-minute presentation, a moderated panel discussion, and an open Q&A.
 
 We intentionally designed the tutorial this way so that the participants could benefit from the short presentations that can guide the following panel and open discussions. Participants can raise their questions and gain information and insights from presenters and other panelists regarding building skills and career paths in computational social science.
 
