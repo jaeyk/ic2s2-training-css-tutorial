@@ -51,15 +51,15 @@ We intentionally designed the tutorial this way so that the participants could b
 
 ## Session 1: Learning Data Science Skills (1:30 - 2:30 PM, 15 mins break)  
 
-- Slides [TBD]
+- [Slides](https://github.com/jaeyk/ic2s2-training-css-tutorial/blob/main/slides/learning_data_science_Barari.pdf) (presenter: Souhbik Barari, moderator: Tiago Ventura)
 
 ## Session 2: Builindg Computational Social Science Portfolio (2:45 - 3:45 PM, 15 mins break)
 
-- [Slides](https://github.com/jaeyk/ic2s2-training-css-tutorial/blob/main/slides/training_css_phd_building_portfolio_Kim.pdf)
+- [Slides](https://github.com/jaeyk/ic2s2-training-css-tutorial/blob/main/slides/training_css_phd_building_portfolio_Kim.pdf) (presenter: Jae Yeon Kim, moderator: Aniket Kesari)
 
 ## Session 3: Connecting with Computatioanl Social Scientists (4 - 5 PM)
 
-- Slides [TBD]
+- [Slides](https://github.com/jaeyk/ic2s2-training-css-tutorial/blob/main/slides/Shugars_Networking.pdf) (presenter: Sarah Shugars, moderator: Jae Yeon Kim & Tina Law)
 
 ## References 
 
